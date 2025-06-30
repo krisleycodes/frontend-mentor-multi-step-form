@@ -1,29 +1,21 @@
-# lumo-ecotech
+# Multi-Step Form Project
 
-This template should help get you started developing with Vue 3 in Vite.
+A responsive multi-step form with interactive elements, animated transitions, and form validation. Built with Vue 3, TypeScript, and Tailwind CSS.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- ✨ **Multi-step process** with progress indicator
+- 📱 **Fully responsive** design (mobile, tablet, desktop)
+- 🎨 **Animated transitions** between steps
+- ✅ **Form validation** for user information
+- 🔄 **Toggle between** monthly/yearly billing
+- 📝 **Summary page** with selected options
+- 🎉 **Confirmation screen** after submission
 
-## Customize configuration
+## Technologies Used
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- Vue 3 (Composition API)
+- TypeScript
+- Tailwind CSS
+- Motion One (for animations)
+- Vite (build tool)

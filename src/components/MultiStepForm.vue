@@ -163,7 +163,7 @@ const stepOneRef = ref()
         :initial="{ x: 50, opacity: 0 }"
         :animate="{ x: 0, opacity: 1 }"
         :transition="{ duration: 0.6, delay: 0.3 }"
-        class="content flex-1 px-4 md:px-8 lg:px-16 xl:px-24 h-full w-full flex flex-col"
+        class="content flex-1 lg:pt-10 px-4 md:px-8 lg:px-16 xl:px-24 h-full w-full flex flex-col"
       >
         <div class="flex-1 pb-10 md:pb-20">
         <motion.div
